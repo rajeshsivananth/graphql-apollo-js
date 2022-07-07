@@ -1,0 +1,8 @@
+{
+  "name": "graphql-apollo-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rajeshsivananth/graphql-apollo-js.git",
+  "author": "Rajesh Kumar <rajeshsivananth@gmail.com>",
+  "license": "MIT"
+}
