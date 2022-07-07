@@ -9,5 +9,13 @@ type User {
 type Query {
     getUsers: [User!]!
 }
+
+type Mutation {
+    createUser(
+        name: String!
+        age: Int!
+        location: String
+    ): User!
+}
 `;
 module.exports = { typeDefs };
