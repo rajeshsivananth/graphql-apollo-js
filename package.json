@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/rajeshsivananth/graphql-apollo-js.git",
   "author": "Rajesh Kumar <rajeshsivananth@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.9.0",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0"
+  }
 }
